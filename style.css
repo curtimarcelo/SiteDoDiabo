@@ -1,0 +1,160 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background-size: 100%;
+    background: url("../imagensBARRASinicias/yvan-quinet-by-yvan-quinet-characters-fantasy-creatures-dakr.jpg")
+}
+
+.barrainicio{
+    background-size: 100%;
+    margin: 0px;
+    padding: 10px;
+    padding-bottom: 3px;
+    font-style: italic;
+    font-size: 40px;
+    color: white;
+    position: relative;
+    justify-content: space-between;
+}
+
+.logo {
+    font-family: "Times New Roman", Times, serif;
+    font-size: 40px;
+    letter-spacing: 6px;
+    word-spacing: 6px;
+    color: #AD0000;
+    font-weight: 700;
+    text-decoration: overline solid rgb(68, 68, 68);
+    font-style: normal;
+    font-variant: small-caps;
+    text-transform: capitalize;
+    text-shadow: 10px 8px 15px rgba(0,0,0,0.83);
+    
+    }
+
+.botoes{
+    width: 55%;
+    margin: 0px;
+    padding-top: 0%;
+    margin-top: 0px;
+    margin-left: auto;
+    text-decoration: none;
+    border-radius: 25px;
+    font-size: 20px;
+    font-weight: bold;
+    justify-content: space-between;
+    
+
+}
+
+.botao-link {
+    text-decoration: none;
+    display: inline;
+    margin-top: 0px;
+    padding-right: 55px;
+    font-size: 25px;
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+    font-size: 24px;
+    letter-spacing: 0.4px;
+    word-spacing: 0.2px;
+    color: #000;
+    font-weight: 700;
+    text-decoration: none;
+    font-style: normal;
+    font-variant: small-caps;
+    text-transform: capitalize;
+    text-shadow: 2px 2px 15px #000000;
+    opacity: 0.3;
+    transition: 0.7s;
+
+}
+
+.botao-link:hover {
+    opacity: 1;
+    text-shadow: none;
+}
+
+h1{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding-top: 3%;
+    font-family: "Alegreya SC", serif;
+    font-weight: bold;
+    text-transform: capitalize;
+    font-variant: small-caps;
+    text-align: center;
+    font-size: 39px;
+    letter-spacing: 3px;
+    word-spacing: 6px;
+    color: rgba(133, 0, 0, 0.88);
+    background-color: rgba(84, 84, 84, 0);
+    text-shadow: rgb(0, 0, 0) 2px 3px 5px;
+
+}
+
+input{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin-right: auto;
+    margin-left: auto;
+    width: 20%;
+    text-align: center;
+
+}
+
+.myButton{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 5px;
+
+}
+
+.myButton {
+	box-shadow:inset -17px -19px 14px -10px #000000;
+	background:linear-gradient(to bottom, #000000 5%, #ff0000 100%);
+	background-color:#000000;
+	border-radius:20px;
+	border:2px solid #000000;
+	cursor:pointer;
+	color:#ff000d;
+	font-family:Georgia;
+	font-size:18px;
+	font-weight:bold;
+	padding:3px 7px;
+	text-decoration:none;
+	text-shadow:0px 1px 14px #000000;
+}
+.myButton:hover {
+	background:linear-gradient(to bottom, #ff0000 5%, #000000 100%);
+	background-color:#ff0000;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+
+.aviso{
+    margin: 0px;
+    padding: 0px;
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    width: 250px;    
+    color: #000000;
+    text-shadow: 1px 1px 1px #000000;
+}
+
+h6{
+    position: fixed;
+    bottom: 0%;
+    padding-left: 5px;
+    border-top: 2px solid #000;
+}
