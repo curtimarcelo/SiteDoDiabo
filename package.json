@@ -1,0 +1,19 @@
+{
+  "name": "site",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/curtimarcelo/SiteDoDiabo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/curtimarcelo/SiteDoDiabo/issues"
+  },
+  "homepage": "https://github.com/curtimarcelo/SiteDoDiabo#readme"
+}
