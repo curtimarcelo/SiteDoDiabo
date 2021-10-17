@@ -9,6 +9,7 @@ body{
     background-size: 100%;
     margin: 0px;
     padding: 10px;
+    padding-top: 10px;
     padding-bottom: 3px;
     font-style: italic;
     font-size: 40px;
@@ -21,25 +22,24 @@ body{
     font-family: "Times New Roman", Times, serif;
     font-size: 40px;
     letter-spacing: 6px;
+    padding-top: 10px;
     word-spacing: 6px;
-    color: #AD0000;
+    color: #720000;
     font-weight: 700;
     text-decoration: overline solid rgb(68, 68, 68);
     font-style: normal;
     font-variant: small-caps;
     text-transform: capitalize;
-    text-shadow: 10px 8px 15px rgba(0,0,0,0.83);
+    text-shadow: 5px 3px 4px rgba(0,0,0,0.83);
     
     }
 
 .botoes{
-    width: 55%;
-    margin: 0px;
+    width: 43%;
     padding-top: 0%;
     margin-top: 0px;
     margin-left: auto;
     text-decoration: none;
-    border-radius: 25px;
     font-size: 20px;
     font-weight: bold;
     justify-content: space-between;
@@ -64,7 +64,7 @@ body{
     font-variant: small-caps;
     text-transform: capitalize;
     text-shadow: 2px 2px 15px #000000;
-    opacity: 0.3;
+    opacity: 0.4;
     transition: 0.7s;
 
 }
