@@ -1,8 +1,10 @@
 body{
     margin: 0px;
     padding: 0px;
-    background-size: 100%;
-    background: url("../imagensBARRASinicias/yvan-quinet-by-yvan-quinet-characters-fantasy-creatures-dakr.jpg")
+    background: url("../imagensBARRASinicias/yvan-quinet-by-yvan-quinet-characters-fantasy-creatures-dakr.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
 }
 
 .barrainicio{
